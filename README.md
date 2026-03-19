@@ -1,2 +1,3 @@
-# pro-recommendation-engine-c37h
-AI-powered recommendation system for modern development workflows
+# Pro Recommendation Engine C37H
+
+A AI-powered recommendation system for modern development workflows.
